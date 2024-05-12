@@ -45,7 +45,7 @@ __      _____| | ___ ___  _ __ ___   ___  | |_ ___
 
 <!-- google analytics -->
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-S7E27WF1GY"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=googletag"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
